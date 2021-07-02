@@ -7,3 +7,5 @@
 # BlueJ files
 *.ctxt
 *.iml
+.idea
+**/target
